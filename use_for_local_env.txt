@@ -4,14 +4,14 @@ NEXT_PUBLIC_LOGO_PATH="/logo.png"
 # Home page
 NEXT_PUBLIC_URL="http://localhost:3000/"
 NEXT_PUBLIC_TOKEN_NAME="bDEI"
-NEXT_PUBLIC_HEADING="Claim bDEI"
-NEXT_PUBLIC_DESCRIPTION="Scream v1 debt holders can claim 1 bDEI for every $ of net assets they held in Scream v1"
+NEXT_PUBLIC_HEADING="Part 1: bDEI Claim"
+NEXT_PUBLIC_DESCRIPTION="Scream v1 debt holders can claim 1 bDEI for every $ of net assets they held in Scream v1, using Chainlink prices."
 
 # Social links
-NEXT_PUBLIC_DISCORD="https://discord.gg/"
-NEXT_PUBLIC_TWITTER="https://twitter.com/"
-NEXT_PUBLIC_ARTICLE="https://mirror.xyz/"
-NEXT_PUBLIC_GITHUB="https://github.com/"
+NEXT_PUBLIC_DISCORD="https://discord.gg/anC2YKRasX"
+NEXT_PUBLIC_TWITTER="https://twitter.com/Screamdotsh"
+NEXT_PUBLIC_ARTICLE="https://snapshot.org/#/screamsh.eth/proposal/0xcbf4a9d1c951a141a2fa806f7c7e6c4b2fea7db5952aee9e1dcc68b1c11adff9"
+NEXT_PUBLIC_GITHUB="https://github.com/Scream-Finance/"
 
 # Functionality
 NEXT_PUBLIC_CONTRACT_ADDRESS="0xA466FCd4c1fd62B1C9a6927148A2f01efAc24465"

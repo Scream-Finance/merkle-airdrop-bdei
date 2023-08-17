@@ -31,7 +31,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Introducing {tokenName}{" "}
+            Read more about the Scream v1 compensation plan{" "}
             <Image src="/icons/arrow.svg" alt="Arrow" height={12} width={12} />
           </a>
         ) : null}
