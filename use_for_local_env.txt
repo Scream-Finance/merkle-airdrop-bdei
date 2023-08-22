@@ -5,7 +5,7 @@ NEXT_PUBLIC_LOGO_PATH="/logo.png"
 NEXT_PUBLIC_URL="http://localhost:3000/"
 NEXT_PUBLIC_TOKEN_NAME="bDEI"
 NEXT_PUBLIC_HEADING="Part 1: bDEI Claim"
-NEXT_PUBLIC_DESCRIPTION="Scream v1 debt holders can claim 1 bDEI for every $ of net assets they held in Scream v1, using Chainlink prices."
+NEXT_PUBLIC_DESCRIPTION="Scream v1 debt holders can claim 1 bDEI for every dollar of net assets they held in Scream v1, using Chainlink prices."
 
 # Social links
 NEXT_PUBLIC_DISCORD="https://discord.gg/anC2YKRasX"
